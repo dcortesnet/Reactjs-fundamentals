@@ -1,3 +1,5 @@
+import React from 'react'
+
 export const SmartComponentCalculateDay = () => {
     const sum = 1 + 1;
     return <DumpComponentShowResult result={sum} />
