@@ -6,6 +6,7 @@ import { FatherComponent } from './5. props/props-declaration';
 import { UseEffectComponent } from "./6. hooks/use-effect-declaration";
 import { UseContextComponent } from './6. hooks/use-context-declaration';
 import { UseReducerComponent } from './6. hooks/use-reducer-declaration';
+import { FragmentComponent } from './7. fragments/fragment-declaration';
 
 function App() {
   return <div>
@@ -17,6 +18,7 @@ function App() {
     <UseEffectComponent />
     <UseContextComponent />
     <UseReducerComponent />
+    <FragmentComponent />
   </div>
 }
 
