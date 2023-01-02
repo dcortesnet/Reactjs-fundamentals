@@ -4,6 +4,8 @@ import { FunctionComponent } from './2. components/func-component-declaration';
 import { CounterComponent } from './3. state/state-component-declaration';
 import { FatherComponent } from './5. props/props-declaration';
 import { UseEffectComponent } from "./6. hooks/use-effect-declaration";
+import { UseContextComponent } from './6. hooks/use-context-declaration';
+import { UseReducerComponent } from './6. hooks/use-reducer-declaration';
 
 function App() {
   return <div>
@@ -13,6 +15,8 @@ function App() {
     <CounterComponent />
     <FatherComponent />
     <UseEffectComponent />
+    <UseContextComponent />
+    <UseReducerComponent />
   </div>
 }
 
