@@ -7,9 +7,10 @@ import { UseEffectComponent } from "./6. hooks/use-effect-declaration";
 import { UseContextComponent } from './6. hooks/use-context-declaration';
 import { UseReducerComponent } from './6. hooks/use-reducer-declaration';
 import { FragmentComponent } from './7. fragments/fragment-declaration';
+import { LifeCycleClassComponent } from './4. lifecycle/lifecycle-class-declaration';
 
 function App() {
-  return
+  return <LifeCycleClassComponent />
   {/* <JSXComponent />
     <ClassComponent />
     <FunctionComponent />
@@ -18,7 +19,9 @@ function App() {
     <UseEffectComponent />
     <UseContextComponent />
     <UseReducerComponent />
-    <FragmentComponent /> */}
+    <FragmentComponent /> */
+
+  }
 
 
 }
