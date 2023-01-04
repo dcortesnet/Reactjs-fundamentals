@@ -1,6 +1,6 @@
 import { JSXComponent } from "./1. fundamentals/jsx-declaration";
 import { ClassComponent } from "./2. components/class-component-declaration";
-import { FunctionComponent } from './2. components/func-component-declaration';
+import { FunctionComponent, TestComponente } from './2. components/func-component-declaration';
 import { CounterComponent } from './3. state/state-component-declaration';
 import { FatherComponent } from './5. props/props-declaration';
 import { UseEffectComponent } from "./6. hooks/use-effect-declaration";
@@ -9,8 +9,8 @@ import { UseReducerComponent } from './6. hooks/use-reducer-declaration';
 import { FragmentComponent } from './7. fragments/fragment-declaration';
 
 function App() {
-  return <div>
-    <JSXComponent />
+  return
+  {/* <JSXComponent />
     <ClassComponent />
     <FunctionComponent />
     <CounterComponent />
@@ -18,8 +18,9 @@ function App() {
     <UseEffectComponent />
     <UseContextComponent />
     <UseReducerComponent />
-    <FragmentComponent />
-  </div>
+    <FragmentComponent /> */}
+
+
 }
 
 export default App;
