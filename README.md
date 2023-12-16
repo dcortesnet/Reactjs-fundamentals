@@ -2,6 +2,12 @@
 
 Fundamentals of the Reactjs library. Repository with examples and basic exercises of components, state, props, lifecycle and hooks. This repository is part of a self-taught supplemental course to help students develop skills.
 
+## Resources
+
+- React web and doc: https://react.dev/
+- Redux Tool kit: https://redux-toolkit.js.org/
+- Vite: https://vitejs.dev/
+
 ## Personal blog about React
 
 - [Introducción a React](https://medium.com/@diego.coder/introducci%C3%B3n-a-reactjs-418bf0af52cc)
