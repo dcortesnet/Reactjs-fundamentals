@@ -10,7 +10,6 @@ Fundamentals of the Reactjs library. Repository with examples and basic exercise
 
 ## Personal blog about React
 
-- [Introducción a React](https://medium.com/@diego.coder/introducci%C3%B3n-a-reactjs-418bf0af52cc)
 - [Componentes en React](https://medium.com/@diego.coder/componentes-en-react-js-9a1444cddc52)
 - [Estados en React](https://medium.com/@diego.coder/estados-en-react-js-hook-usestate-a8ceb548b4a1)
 - [Props en React](https://medium.com/@diego.coder/propiedades-en-react-js-props-dc1d42c25c28)
