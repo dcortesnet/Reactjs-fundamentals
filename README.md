@@ -5,9 +5,10 @@ Fundamentals of the Reactjs library. Repository with examples and basic exercise
 ## Resources
 
 - React web and doc: https://react.dev/
-- Redux Tool kit: https://redux-toolkit.js.org/
-- Vite: https://vitejs.dev/
+- Development environment Vite: https://vitejs.dev/
 - DEV patterns React: https://www.patterns.dev/
+- Deploy your app in Vercel: https://vercel.com/
+- Redux Toolkit: https://redux-toolkit.js.org/
 
 ## Personal blog about React
 
